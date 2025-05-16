@@ -4,3 +4,7 @@ Objective is to get familiar with dev with hand tracking, especially custom gest
 
 Unity 6.1.2f
 XR Interaction Toolkit
+
+
+0. Setting up with Template
+1. Optimize with Creating Hand Visual Prefabs & Affordance Feature
